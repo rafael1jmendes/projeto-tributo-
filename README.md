@@ -18,7 +18,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página web criada para tributo da banda The Offspring, foi criada para desenvolvimento das habilidades de html e css.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 
 ---
